@@ -1,0 +1,10 @@
+C:\Users\dimitrimichelazzo\source\repos\Clinica_appuntament\obj\Debug\Clinica_appuntament.csprojAssemblyReference.cache
+C:\Users\dimitrimichelazzo\source\repos\Clinica_appuntament\obj\Debug\Clinica.Form1.resources
+C:\Users\dimitrimichelazzo\source\repos\Clinica_appuntament\obj\Debug\Clinica_appuntament.Properties.Resources.resources
+C:\Users\dimitrimichelazzo\source\repos\Clinica_appuntament\obj\Debug\Clinica_appuntament.csproj.GenerateResource.cache
+C:\Users\dimitrimichelazzo\source\repos\Clinica_appuntament\obj\Debug\Clinica_appuntament.csproj.CoreCompileInputs.cache
+C:\Users\dimitrimichelazzo\source\repos\Clinica_appuntament\bin\Debug\Clinica_appuntament.exe.config
+C:\Users\dimitrimichelazzo\source\repos\Clinica_appuntament\bin\Debug\Clinica_appuntament.exe
+C:\Users\dimitrimichelazzo\source\repos\Clinica_appuntament\bin\Debug\Clinica_appuntament.pdb
+C:\Users\dimitrimichelazzo\source\repos\Clinica_appuntament\obj\Debug\Clinica_appuntament.exe
+C:\Users\dimitrimichelazzo\source\repos\Clinica_appuntament\obj\Debug\Clinica_appuntament.pdb
